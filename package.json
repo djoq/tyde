@@ -1,0 +1,14 @@
+{
+  "name": "tyde",
+  "version": "1.0.0",
+  "description": "tie dye for icon loaders",
+  "main": "lib/tyde.js",
+  "scripts": {
+    "test": "./test.js"
+  },
+  "author": "Danny O'Quinn",
+  "license": "MIT",
+  "dependencies": {
+    "font-awesome": "^4.6.3"
+  }
+}
