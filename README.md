@@ -14,3 +14,10 @@ Step 3: Include javascript file after the icon.
 
     <script src="node_modules/tyde/lib/tyde.js"></script>
   
+And you're done!
+If you would like different colors, they are set as an array in `lib/tyde.js`
+
+Example:
+---------------
+
+https://djoq.github.io/tyde/
